@@ -1,0 +1,7 @@
+{
+  "name": "dmv-ai-scout",
+  "version": "1.0.0",
+  "description": "Daily scout for new core AI/ML events in DC, Maryland and Virginia, emailed via Gmail.",
+  "author": { "name": "Vandana" },
+  "license": "MIT"
+}
