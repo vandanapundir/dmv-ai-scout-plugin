@@ -1,0 +1,11 @@
+{
+  "name": "vandana-plugins",
+  "owner": { "name": "Vandana" },
+  "plugins": [
+    {
+      "name": "dmv-ai-scout",
+      "source": "./",
+      "description": "Daily DMV AI events scout, emailed via Gmail."
+    }
+  ]
+}
